@@ -1,0 +1,20 @@
+{
+  "siteId": 72,
+  "siteName": "uitu.edu.pk",
+  "siteSlug": "uitu-edu-pk",
+  "archiveName": "connected_system.zip",
+  "archiveParts": [
+    "connected_system.part000",
+    "connected_system.part001",
+    "connected_system.part002",
+    "connected_system.part003",
+    "connected_system.part004",
+    "connected_system.part005",
+    "connected_system.part006"
+  ],
+  "entryPath": "index.html",
+  "extractMarker": "admin_system/backend/app.py",
+  "publicPath": "/site/",
+  "adminPath": "/admin/site/72/login",
+  "createdAt": "2026-04-16 16:48:03"
+}
